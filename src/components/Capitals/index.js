@@ -45,7 +45,7 @@ class Capitals extends Component {
       }
       return false
     })
-    console.log(findCapital)
+    
     return (
       <div className="bg-color">
         <div className="sub-div">
